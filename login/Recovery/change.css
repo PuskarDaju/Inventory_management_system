@@ -1,0 +1,12 @@
+label{
+    width:180px;
+    display: inline-block;
+}
+form{
+    border: 1px solid black;
+    width: 30%;
+    padding: 2%;
+    margin-left:15%;
+    margin-top:5%;
+    background-color:lightyellow;
+}

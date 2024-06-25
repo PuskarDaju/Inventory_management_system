@@ -1,0 +1,30 @@
+*{
+    background-color: aquamarine;
+}
+
+
+label,input{
+    width: 40%;
+    display: inline-block;
+    background-color: white;
+}
+fieldset{
+    background-color: white;
+    margin-top: 50px;
+    margin-left:100px;
+    width: 40%;
+}
+legend{
+    background-color: white;
+}
+select,option{
+    background-color: white;
+}
+
+button{
+    margin-left:30%;
+    background-color: cadetblue;
+    color: white;
+}
+
+
